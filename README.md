@@ -7,7 +7,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](your-profile)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](your-profile)
 
-## Co-Founder & CTO at KAYAAN | Future of Freight Booking with AI 🎯
+## Co-Founder & CTO at KAYAAN | Future of Freight Booking with AI Agents🎯
 > "Turning load booking into a conversation" 🗣️
 
 
