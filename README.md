@@ -1,4 +1,4 @@
-# Syed Ahmed 🚀
+# Sayed Raheel Hussain 🚀
 ## Co-Founder & CTO at KAYAAN | Revolutionizing Trucking with AI 🎯
 > "Turning load booking into a conversation" 🗣️
 
