@@ -88,7 +88,7 @@ Building the future of trucking at KAYAAN. Looking to connect with:
 - AI/ML wizards 🧙‍♂️
 - Logistics innovators 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your-linkedin](https://www.linkedin.com/in/sayedraheel/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayedraheel/)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](@sayedraheel4)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]([your-github](https://github.com/sayedRaheel))
 
