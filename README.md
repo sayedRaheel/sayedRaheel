@@ -36,7 +36,6 @@ Leading a revolution in how America's truckers book loads:
 - 🧠 Large Language Models
 - 👁️ Computer Vision
 - 🐄 Veterinary AI Applications
-
 ### Key Publications
 - 🔬 BovineTeatNet (2024) - [ResearchGate](https://www.researchgate.net/publication/385722590_BovineTeatNet_Enhancing_Cow_Teat_Health_Assessment_using_Few_Shot_Learning)
 - 🤖 VetMedGPT (2024) - [ResearchGate](https://www.researchgate.net/publication/385722362_VetMedGPT_Generative_Pre-trained_Transformer_for_Veteri-_nary_Medicine_Healthcare)
