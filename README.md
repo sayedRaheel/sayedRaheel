@@ -48,7 +48,6 @@ Leading a revolution in how America's truckers book loads:
 - 📊 Research Interest score: [31.3]
 - 👥 Research Items: [7]
 
-- 
 ## Previous Adventures 🌟
 
 ### Machine Learning Engineer @ Sync AI (NYC) 🏙️
