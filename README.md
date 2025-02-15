@@ -1,4 +1,12 @@
 # Sayed Raheel Hussain 🚀
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Profile-yellow)](your-huggingface-url)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](your-profile)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)](your-profile)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](your-profile)
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](your-profile)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](your-profile)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](your-profile)
+
 ## Co-Founder & CTO at KAYAAN | Revolutionizing Trucking with AI 🎯
 > "Turning load booking into a conversation" 🗣️
 
