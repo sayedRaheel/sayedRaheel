@@ -42,7 +42,7 @@ Leading a revolution in how America's truckers book loads:
 - Voice AI: Speech Recognition 🎤
 - Computer Vision: YOLO, ControlNet 👁️
 
-### Infrastructure Magic 🏗️
+### Infrastructure 🏗️
 - Cloud: GCP, AWS ☁️
 - MLOps: Docker, Git, CI/CD 🔄
 - Data: SQL, MongoDB 💾
@@ -58,7 +58,7 @@ Building the future of trucking at KAYAAN. Looking to connect with:
 - AI/ML wizards 🧙‍♂️
 - Logistics innovators 🌐
 
-📧 syed@kayaan.ai
+📧 sayed@kayaan.ai
 🔗 LinkedIn
 🐦 Twitter
 
@@ -70,9 +70,13 @@ Building the future of trucking at KAYAAN. Looking to connect with:
 - Endless broker calls 📞
 - Complex negotiations 🤝
 - Paperwork headaches 📋
+- Complicated Compliance
 
 ### The KAYAAN Promise 🌟
 One voice command = Booked load 🎤
 That's it. That's the revolution. 🚀
 
-Want me to create more vibrant versions for specific platforms or add more sections? 🤔
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sayedraheel/) | 
+[✉️ Sayed@kayaan.ai](mailto:Sayed@kayaan.ai)
+
+"At KAYAAN, we believe finding and booking loads should be as simple as having a conversation. We're making that reality.
