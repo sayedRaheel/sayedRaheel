@@ -10,6 +10,7 @@
 ## Co-Founder & CTO at KAYAAN | Future of Freight Booking with AI 🎯
 > "Turning load booking into a conversation" 🗣️
 
+
 ## Building KAYAAN - The Future of Freight 🚛
 Leading a revolution in how America's truckers book loads:
 - Voice commands replace hours of calls 🎤
@@ -26,6 +27,28 @@ Leading a revolution in how America's truckers book loads:
 - Real-time load matching 🎯
 - Market intelligence engine 📈
 
+## 📚 Research Profile
+
+[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Sayed-Hussain-20?ev=hdr_xprf)
+
+### Research Interests
+- 🤖 Artificial Intelligence in Agriculture
+- 🧠 Large Language Models
+- 👁️ Computer Vision
+- 🐄 Veterinary AI Applications
+
+### Key Publications
+- 🔬 BovineTeatNet (2024) - [ResearchGate](https://www.researchgate.net/publication/385722590_BovineTeatNet_Enhancing_Cow_Teat_Health_Assessment_using_Few_Shot_Learning)
+- 🤖 VetMedGPT (2024) - [ResearchGate](https://www.researchgate.net/publication/385722362_VetMedGPT_Generative_Pre-trained_Transformer_for_Veteri-_nary_Medicine_Healthcare)
+- 🫁 LungNet (2023) - [ResearchGate](https://www.researchgate.net/publication/370521744_Efficient_Lung_Image_Segmentation_using_Encoder-Decoder_Architecture)
+
+### Research Metrics
+- 📚 Publications: [7]
+- 📖 Citations: [6]
+- 📊 Research Interest score: [31.3]
+- 👥 Research Items: [7]
+
+- 
 ## Previous Adventures 🌟
 
 ### Machine Learning Engineer @ Sync AI (NYC) 🏙️
