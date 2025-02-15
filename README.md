@@ -60,7 +60,7 @@ Leading a revolution in how America's truckers book loads:
 - ControlNet implementation ⚡
 - Production ML expert 🔧
 
-## Research Contributions 📚
+## Research Assistant at Yeshiva University(Deep Learning Department) 📚
 - BovineTeatNet (2024) 🐄
 - VetMedGPT (2024) 🤖
 - LungNet (2023) 🫁
